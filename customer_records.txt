@@ -1,0 +1,15 @@
+1234,Naiyar Malik,naiyar@gmail.com,1000000000
+1342,Arushan Arulraj,arushan@gmail.com,1000000000
+2134,Joseph Verna,joseph@gmail.com,2000
+2222,Justin Chau,chau@gmail.com,2222
+2262,Nathaniel Go,nathaniel@gmail.com,2222
+2341,Brian Ho,brian@gmail.com,2040000
+3124,Karam Kang,karamr@gmail.com,20
+3214,Shubh Patel,shubh@gmail.com,5000000
+3421,Aekas Dilawri,aekas@gmail.com,5003000
+4123,Harman Aujila,harman@gmail.com,325010
+4221,Denis Lam,dennis@gmail.com,45000
+4231,Randy Ngo,randy@gmail.com,45000
+4321,Ismail Azizi,ismail@gmail.com,900
+4444,Jo Villar,jo@gmail.com,900
+
